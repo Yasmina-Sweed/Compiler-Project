@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703937553 source:f:\fourth year\first semester\compiler design\syntax analysis\main.cpp
+	<iostream>
+	<vector>
+	<cctype>
+
+1703937553 source:f:\fourth year\first semester\compiler design\compiler project\syntax analysis\main.cpp
+	<iostream>
+	<vector>
+	<cctype>
+

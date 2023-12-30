@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1703937177 source:f:\fourth year\first semester\compiler design\lexical analysis\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+
+1703937177 source:f:\fourth year\first semester\compiler design\compiler project\lexical analysis\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+
